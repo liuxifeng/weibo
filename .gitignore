@@ -1,0 +1,12 @@
+#×¢ÊÍ
+*.class
+.classpath
+*.png
+*.txt
+.project
+project.properties
+
+.settings
+assets/
+gen/
+
